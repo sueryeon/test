@@ -1,5 +1,6 @@
 # carezone
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=About%20Project&fontSize=70" width="100%" />
 
 <div align="center">
   <h5>Skills</h5>
