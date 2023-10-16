@@ -24,6 +24,7 @@
 </div>
 
 
-<h5>E-R Diagram</h5>
+<h5 align="center">E-R Diagram</h5>
+
 ![ERdiagram](https://github.com/sueryeon/carezone/assets/143668919/c2405a58-24f9-456a-ac3a-917ed8d38723)
 
